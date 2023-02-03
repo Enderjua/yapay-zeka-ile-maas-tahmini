@@ -51,7 +51,7 @@ yhead = lr.predict(xtest)
 ```
 We are now implementing machine learning to start the prediction.
 
-"Tecrübe" = Experience
+"Tecrübe" = Experience <br>
 "Maaş" = Wage
 
 My email adress: enderjua@gmail.com
